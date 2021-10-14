@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "3yHeUFxb1XlbxbVA4vARjzPWr5HHtp1+EcGPtgV57uk2lEBBstO98frTFx+nOGcMqgahT1Q3/g5sCi7pt5SzPQ==",
+  "success": true,
+  "projectFilePath": "e:\\Tai_Lieu_hoc\\Youtube\\C#\\TeduShop\\Data\\Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\entityframework\\6.1.3\\entityframework.6.1.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'EntityFramework 6.1.3' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework 'net5.0'. This package may not be fully compatible with your project.",
+      "libraryId": "EntityFramework",
+      "targetGraphs": [
+        "net5.0"
+      ]
+    }
+  ]
+}

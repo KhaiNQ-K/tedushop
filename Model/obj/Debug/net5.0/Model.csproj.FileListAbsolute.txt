@@ -1,0 +1,12 @@
+e:\Tai_Lieu_hoc\Youtube\C#\TeduShop\Model\bin\Debug\net5.0\Model.deps.json
+e:\Tai_Lieu_hoc\Youtube\C#\TeduShop\Model\bin\Debug\net5.0\Model.dll
+e:\Tai_Lieu_hoc\Youtube\C#\TeduShop\Model\bin\Debug\net5.0\ref\Model.dll
+e:\Tai_Lieu_hoc\Youtube\C#\TeduShop\Model\bin\Debug\net5.0\Model.pdb
+e:\Tai_Lieu_hoc\Youtube\C#\TeduShop\Model\obj\Debug\net5.0\Model.csproj.AssemblyReference.cache
+e:\Tai_Lieu_hoc\Youtube\C#\TeduShop\Model\obj\Debug\net5.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+e:\Tai_Lieu_hoc\Youtube\C#\TeduShop\Model\obj\Debug\net5.0\Model.AssemblyInfoInputs.cache
+e:\Tai_Lieu_hoc\Youtube\C#\TeduShop\Model\obj\Debug\net5.0\Model.AssemblyInfo.cs
+e:\Tai_Lieu_hoc\Youtube\C#\TeduShop\Model\obj\Debug\net5.0\Model.csproj.CoreCompileInputs.cache
+e:\Tai_Lieu_hoc\Youtube\C#\TeduShop\Model\obj\Debug\net5.0\Model.dll
+e:\Tai_Lieu_hoc\Youtube\C#\TeduShop\Model\obj\Debug\net5.0\ref\Model.dll
+e:\Tai_Lieu_hoc\Youtube\C#\TeduShop\Model\obj\Debug\net5.0\Model.pdb
